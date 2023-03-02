@@ -1,5 +1,5 @@
 # Cinematic-control-Diferenttial-robot
-this code is  developed for  diferenttial robot, the controller is kinematic controller, the parameter  is the  radio of the wheels and size between the wheels
+This code was developing for adiferenttial robot, the controller is kinematic controller, the parameters are the radio of the wheels and size between the wheels
 
 Examples with diferenttial robot.
 
